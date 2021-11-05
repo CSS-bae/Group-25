@@ -40,7 +40,7 @@ This is instruction to Setup your Git and GitHub Account
 - you will most likely see a notification asking you to create pull request
 - if don't see notification, go to pull request tab and create new pull request.
 - In the pull request compare your branch with develop branch and if no conflict, create the pull request.
-- Get in touch with your beautiful group leader and ask her to merge your pull request
+- Get in touch with me and ask me to merge your pull request
 
 
 
